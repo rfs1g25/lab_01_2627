@@ -32,9 +32,9 @@ Sometimes there will be areas for you to edit. These will have _marked_ text tha
 
 - [x] Check items off as you complete them.
 - [x] Create your personal student repository by following the instructions at the link above.
-- [ ] Clone the repository, containing this file, to your local machine.
-- [ ] Open these instructions in Visual Studio Code or RStudio.
-- [ ] Fill out your name in the box below.
+- [X] Clone the repository, containing this file, to your local machine.
+- [X] Open these instructions in Visual Studio Code or RStudio.
+- [X] Fill out your name in the box below.
 
 ::: {.callout-note}
 Hi, my name is [Rida]{.mark}.
